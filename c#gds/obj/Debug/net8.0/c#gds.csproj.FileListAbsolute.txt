@@ -1,0 +1,14 @@
+C:\Users\Erzat\source\repos\c#gds\c#gds\bin\Debug\net8.0\c#gds.exe
+C:\Users\Erzat\source\repos\c#gds\c#gds\bin\Debug\net8.0\c#gds.deps.json
+C:\Users\Erzat\source\repos\c#gds\c#gds\bin\Debug\net8.0\c#gds.runtimeconfig.json
+C:\Users\Erzat\source\repos\c#gds\c#gds\bin\Debug\net8.0\c#gds.dll
+C:\Users\Erzat\source\repos\c#gds\c#gds\bin\Debug\net8.0\c#gds.pdb
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\c#gds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\c#gds.AssemblyInfoInputs.cache
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\c#gds.AssemblyInfo.cs
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\c#gds.csproj.CoreCompileInputs.cache
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\c#gds.dll
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\refint\c#gds.dll
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\c#gds.pdb
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\c#gds.genruntimeconfig.cache
+C:\Users\Erzat\source\repos\c#gds\c#gds\obj\Debug\net8.0\ref\c#gds.dll
