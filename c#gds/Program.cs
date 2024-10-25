@@ -1,6 +1,6 @@
 ﻿//1 задание
 
-/*using System;
+using System;
 
 public abstract class Book
 {
@@ -104,10 +104,10 @@ class Program
         library.DisplayAllBooks();
     }
 }
-*/
+
 
 //2 задание
-/*using System;
+using System;
 
 public abstract class Book
 {
@@ -163,11 +163,11 @@ class Program
         nonFictionBook.DisplayInfo();
     }
 }
-*/
+
 
 //3 задание
 
-/*using System;
+using System;
 
 public class Book
 {
@@ -261,11 +261,11 @@ public class Program
 
         library.DisplayAllBooks();
     }
-}*/
+}
 
 //4 задание
 
-/*using System;
+using System;
 public interface IBookOperations
 {
     void AddBook(Book book);
@@ -432,11 +432,11 @@ class Program
         library.SearchBook("Космос");
         library.SearchBook("Хоббит");
     }
-}*/
+}
 
 //5 задание
 
-/*using System;
+using System;
 
 public interface IBookOperations
 {
@@ -592,30 +592,25 @@ class Program
     {
         Library library = new Library();
 
-        // Добавить книги
         library.AddBook(new FictionBook { Title = "Хоббит", Author = "Дж. Р. Р. Толкин", YearPublished = 1937, Genre = "Фантастика" });
         library.AddBook(new NonFictionBook { Title = "Космос", Author = "Карл Саган", YearPublished = 1980, Subject = "Астрономия" });
 
-        // Сохранить книги в файл
         await library.SaveToFileAsync("library.txt");
 
-        // Удалить книгу
         library.DeleteBook("Хоббит");
 
-        // Загрузить книги из файла
         await library.LoadFromFileAsync("library.txt");
 
-        // Найти книгу (должен найти "Космос" и не найти "Хоббит")
         library.SearchBook("Космос");
         library.SearchBook("Хоббит");
     }
 }
 
-*/
+
 
 //6 задание
 
-/*using System;
+using System;
 public interface IBookOperations
 {
     void AddBook(Book book);
@@ -770,23 +765,18 @@ class Program
     {
         Library library = new Library();
 
-        // Добавить книги
         library.AddBook(new FictionBook { Title = "Хоббит", Author = "Дж. Р. Р. Толкин", YearPublished = 1937, Genre = "Фантастика" });
         library.AddBook(new NonFictionBook { Title = "Космос", Author = "Карл Саган", YearPublished = 1980, Subject = "Астрономия" });
 
-        // Сохранить книги в файл
         library.SaveToFile("library.txt");
 
-        // Удалить книгу
         library.DeleteBook("Хоббит");
 
-        // Загрузить книги из файла
         library.LoadFromFile("library.txt");
 
-        // Найти книгу (должен найти "Космос" и не найти "Хоббит")
         library.SearchBook("Космос");
         library.SearchBook("Хоббит");
     }
 }
-*/
+
 
